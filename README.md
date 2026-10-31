@@ -13,20 +13,6 @@ Cardiovascular disease is a leading cause of mortality globally. This project ad
 
 ---
 
-## 👥 Academic & Team Details
-
-* **Institution:** Department of Computer Science & Engineering, Manipal Institute of Technology, Manipal[cite: 1]
-* **Course:** CSE 3148 - Machine Learning[cite: 1]
-* **Faculty Guide:** Dr. Venkatesh Bhandage[cite: 1]
-
-| S.No. | Student Name | Registration Number |
-| :---: | :--- | :---: |
-| 1 | Jia Tandon | 240905640 |
-| 2 | Aryaman Singh | 240905616 |
-| 3 | Khushal Somani | 240905704 |
-
----
-
 ## 📊 Dataset
 
 * **Source:** [UCI Machine Learning Repository – Heart Disease Dataset](https://archive.ics.uci.edu/dataset/45/heart+disease) (Cleveland Clinic Foundation collection)[cite: 1]
